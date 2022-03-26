@@ -32,9 +32,6 @@ public class Demo {
              }
             }
         }
-
-
-
         System.out.println(set);
     }
 
